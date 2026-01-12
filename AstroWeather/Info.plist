@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OPEN_WEATHER_API_KEY</key>
+	<string>34e2e33d268237202c8992a1f9c473b7</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>AstroWeather needs your location to show weather information for your current location.</string>
+</dict>
+</plist>

@@ -1,0 +1,38 @@
+{
+  "configurations" : [
+    {
+      "id" : "32184AFE-06CA-46B6-86C8-EDBE0A46B709",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:AstroWeather.xcodeproj",
+      "identifier" : "924FF9642F11A6F7006CAB82",
+      "name" : "AstroWeather"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:AstroWeather.xcodeproj",
+        "identifier" : "924FF9732F11A6F8006CAB82",
+        "name" : "AstroWeatherTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:AstroWeather.xcodeproj",
+        "identifier" : "924FF97D2F11A6F8006CAB82",
+        "name" : "AstroWeatherUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
